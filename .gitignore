@@ -13,3 +13,6 @@ simple-update-notifier
 stripe
 yarn
 zed
+.DS_Store
+tmux/plugins
+nvim/lazy-lock.json
