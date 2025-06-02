@@ -16,3 +16,4 @@ zed
 .DS_Store
 tmux/plugins
 nvim/lazy-lock.json
+raycast
